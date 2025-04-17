@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-darkBrown;
+}
+/* Josefin Sans Font */
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url('/assets/fonts/JosefinSans-Regular.woff2') format('woff2'),
+       url('/assets/fonts/JosefinSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Roboto Font */
+@font-face {
+  font-family: 'Roboto';
+  src: url('/assets/fonts/Roboto-Regular.woff2') format('woff2'),
+       url('/assets/fonts/Roboto-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Josefin Sans', 'Roboto', sans-serif;
+}
