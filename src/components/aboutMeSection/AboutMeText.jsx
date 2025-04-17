@@ -48,6 +48,7 @@ const AboutMeText = () => {
         <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center">
           <a
             href="/portfolio-website/resume.pdf" // Correct path to resume.pdf in the deployed folder
+            href="/portfolio-website/resume.pdf" // Correct path to resume.pdf in the deployed folder
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer text-white hover:text-cyan transition-all duration-500"
