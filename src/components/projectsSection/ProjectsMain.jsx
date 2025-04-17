@@ -80,7 +80,7 @@ const projects = [
     name: "IBD Clinical Data Analysis and Visualization Project",
     year: "Mar2025",
     align: "right",
-    image: "/portfolio-website/images/IBD.WEBP",
+    image: "/portfolio-website/images/IBD.webp",
     link: "https://github.com/RohitDusane/Interactive-IBD-Analysis-Dashboard-with-Dash-Plotly",
     tags: ["#DataScience", "#HealthcareAnalytics", "#Python", "#EDA"]
   },
