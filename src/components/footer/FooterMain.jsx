@@ -23,7 +23,7 @@ const FooterMain = () => {
     <div className="px-4">
       <div className="w-full h-[1px] bg-lightGrey mt-24"></div>
       <div className="md:flex justify-between mt-4 max-w-[1200px] mx-auto sm:hidden">
-        <p className="text-3xl text-cyany ">Rohit Dusane</p>
+        <p className="text-2xl text-cyany ">Rohit Dusane</p>
         <ul className="flex gap-4 text-lightGrey text-xl">
           {footerLinks.map((item, index) => {
             return (
@@ -43,7 +43,7 @@ const FooterMain = () => {
           })}
         </ul>
       </div>
-      <p className="max-w-[1200px] mx-auto text-2xl text-center text-white mt-2 mb-12">
+      <p className="max-w-[1200px] mx-auto text-xl text-center text-white mt-2 mb-12">
         © 2025 Rohit Dusane | All Rights Reserved.
       </p>
     </div>

@@ -80,33 +80,33 @@ const projects = [
     name: "IBD Clinical Data Analysis and Visualization Project",
     year: "Mar2025",
     align: "right",
-    image: "../../public/images/IBD.WEBP",
+    image: "/portfolio-website/images/IBD.WEBP",
     link: "https://github.com/RohitDusane/Interactive-IBD-Analysis-Dashboard-with-Dash-Plotly",
-    tags: ["#DataScience", "#HealthcareAnalytics", "#Python", "#PlotlyDash"]
+    tags: ["#DataScience", "#HealthcareAnalytics", "#Python", "#EDA"]
   },
   {
     name: "Titanic Machine Learning Model: Random Forest & Logistic Regression",
     year: "Apr2025",
     align: "left",
-    image: "../../public/images/ML.webp",
+    image: "/portfolio-website/images/ML.webp",
     link: "https://github.com/RohitDusane/Titanic-Survival-Prediction-RStudio-Tidymodels",
-    tags: ["#MachineLearning", "#TitanicDataset", "#RStats", "#Tidymodels"]
+    tags: ["#MachineLearning", "#TitanicDataset", "#RStats", "#Tidymodels", "#SurvivalPrediction"]
   },
   {
     name: "Patients Wait Time Analysis Power BI Dashboard",
     year: "Jan2025",
     align: "right",
-    image: "../../public/images/Summary View.PNG",
+    image: "/portfolio-website/images/Summary View.PNG",
     link: "https://github.com/RohitDusane/Healthcare-Analytics",
-    tags: ["#PowerBI", "#HealthcareAnalytics", "#WaitTimeAnalysis", "#DataVisualization"]
+    tags: ["#PowerBI", "#DataInsights", "#WaitTimeAnalysis", "#DataCleaning"]
   },
   {
     name: "Coffee Sales Analysis Excel Dashboard",
     year: "Oct2024",
     align: "left",
-    image: "../../public/images/Dashboard.PNG",
+    image: "/portfolio-website/images/Dashboard.PNG",
     link: "https://github.com/RohitDusane/Excel-Sales-Dashboard",
-    tags: ["#Excel", "#SalesAnalysis", "#BusinessIntelligence", "#DataVisualization"]
+    tags: ["#ExcelDashboard", "#SalesAnalysis", "#BusinessIntelligence", "#DataVisualization"]
   },
 ];
 
