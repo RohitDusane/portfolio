@@ -52,7 +52,7 @@ const HeroText = () => {
   className="right mt-2"
 >
   <p>Available for freelance work</p>
-  <h2 className="text-xl text-orange font-semibold">Oct ‘24</h2>
+  <h2 className="text-xl text-cyan font-semibold">Apr ‘25</h2>
 </motion.div>
 
     </div>
