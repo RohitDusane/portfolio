@@ -48,7 +48,7 @@ const ContactMe = () => {
                 transition={{ duration: 1 }}
               >
                 <img
-                  src="/website/images/email-image.png"
+                  src="/portfolio/images/email-image.png"
                   alt="Profile"
                   className="object-contain w-full h-full"
                 />

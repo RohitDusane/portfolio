@@ -10,7 +10,7 @@ const root = createRoot(document.getElementById('root'));
 
 root.render(
   <StrictMode>
-    <Provider store={store}> {/* Wrap your app with Provider for Redux */}
+    <Provider store={store}>
       <App />
     </Provider>
   </StrictMode>

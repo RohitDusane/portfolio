@@ -4,7 +4,7 @@ const SubSkills = () => {
       {/* Background image with gradient overlay */}
       <div
         className="absolute top-0 left-0 w-full h-full bg-cover bg-center"
-        style={{ backgroundImage: 'url("/website/images/subSkills.jpg")' }}
+        style={{ backgroundImage: 'url("/portfolio/images/subSkills.jpg")' }}
       >
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-cyan to-lightGrey opacity-60"></div>
       </div>
