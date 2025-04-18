@@ -5,8 +5,7 @@ import tailwindcss from 'tailwindcss';
 export default defineConfig({
   base:"/website/",
   plugins: [react()],
-  assetsInclude: ['**/*.pdf']
- 
+  assetsInclude: ['**/*.pdf'], 
   css: {
     postcss: {
       plugins: [tailwindcss],
