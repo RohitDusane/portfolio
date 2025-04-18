@@ -25,5 +25,5 @@ export default defineConfig({
       plugins: [tailwindcss],
     },
   },
-  assetsInclude: ['**/*.pdf'], // Ensure PDF files are handled correctly
+  assetsInclude: ['**/*.pdf'],
 });
