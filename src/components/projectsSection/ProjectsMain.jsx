@@ -80,7 +80,7 @@ const projects = [
     name: "IBD Clinical Data Analysis and Visualization Project",
     year: "Mar2025",
     align: "right",
-    image: "/portfolio-website/images/IBD.webp",
+    image: "/website/images/IBD.webp",
     link: "https://github.com/RohitDusane/Interactive-IBD-Analysis-Dashboard-with-Dash-Plotly",
     tags: ["#DataScience", "#HealthcareAnalytics", "#Python", "#EDA"]
   },
@@ -88,7 +88,7 @@ const projects = [
     name: "Titanic Machine Learning Model: Random Forest & Logistic Regression",
     year: "Apr2025",
     align: "left",
-    image: "/portfolio-website/images/ML.webp",
+    image: "/website/images/ML.webp",
     link: "https://github.com/RohitDusane/Titanic-Survival-Prediction-RStudio-Tidymodels",
     tags: ["#MachineLearning", "#TitanicDataset", "#RStats", "#Tidymodels", "#SurvivalPrediction"]
   },
@@ -96,7 +96,7 @@ const projects = [
     name: "Patients Wait Time Analysis Power BI Dashboard",
     year: "Jan2025",
     align: "right",
-    image: "/portfolio-website/images/Summary View.PNG",
+    image: "/website/images/Summary View.PNG",
     link: "https://github.com/RohitDusane/Healthcare-Analytics",
     tags: ["#PowerBI", "#DataInsights", "#WaitTimeAnalysis", "#DataCleaning"]
   },
@@ -104,7 +104,7 @@ const projects = [
     name: "Coffee Sales Analysis Excel Dashboard",
     year: "Oct2024",
     align: "left",
-    image: "/portfolio-website/images/Dashboard.PNG",
+    image: "/website/images/Dashboard.PNG",
     link: "https://github.com/RohitDusane/Excel-Sales-Dashboard",
     tags: ["#ExcelDashboard", "#SalesAnalysis", "#BusinessIntelligence", "#DataVisualization"]
   },
