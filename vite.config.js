@@ -3,8 +3,9 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
+  base:"/website/",
   plugins: [react()],
-  base:"/portfolio-website/",
+ 
   css: {
     postcss: {
       plugins: [tailwindcss],
