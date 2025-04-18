@@ -46,7 +46,7 @@ const AboutMeText = () => {
 
         {/* Resume Button */}
         <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center">
-        <a href="/website/images/resume.pdf">Download my resume</a>
+        <a href="website/images/resume.pdf">Download my resume</a>
         </button>
       </div>
     </div>
