@@ -39,6 +39,7 @@ export default {
       orange: "#fb9718",
       lightOrange: "#fac27b",
       darkOrange: "#d28422",
+      golden:'#FFD700',
       grey: "#626965",
       lightGrey: "#978580",
       darkGrey: "#3f4441",

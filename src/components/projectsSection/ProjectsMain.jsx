@@ -85,7 +85,7 @@ const projects = [
     tags: ["#DataScience", "#HealthcareAnalytics", "#Python", "#EDA"]
   },
   {
-    name: "Titanic Machine Learning Model: Random Forest & Logistic Regression",
+    name: "TidyModels {R} Machine Learning: Random Forest & Logistic Regression",
     year: "Apr2025",
     align: "left",
     image: "/portfolio/images/ML.webp",

@@ -59,6 +59,7 @@ import SkillsMain from "./components/skillsSection/SkillsMain";
 //import SubSkills from "./components/skillsSection/SubSkills";
 import ExperienceMain from "./components/experienceSection/ExperienceMain";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
+import CertificationsMain from "./components/certifiationSection/CertificationsMain";
 import ContactMeMain from "./components/contactMeSection/ContactMeMain";
 import FooterMain from "./components/footer/FooterMain";
 import ThemeToggle from './components/ThemeToggle'; // adjust the path as needed
@@ -76,6 +77,7 @@ function App() {
       {/* <SubSkills /> */}
       <ExperienceMain />
       <ProjectsMain />
+      <CertificationsMain />
       <ContactMeMain />
       <FooterMain />
     </main>
