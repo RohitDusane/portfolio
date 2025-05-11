@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+Need to install the following packages:
+gitignore@0.7.0
+Ok to proceed? (y) 
+Created .gitignore file for flag type react.
+Created .gitignore file for flag type react.
+Created .gitignore file for flag type react.
+There is no gitignore for React
+Available project types can be found by running `gitignore -types` or at https://github.com/github/gitignore
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

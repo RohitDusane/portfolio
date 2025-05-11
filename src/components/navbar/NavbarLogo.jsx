@@ -1,18 +1,3 @@
-// const NavbarLogo = () => {
-//     return (
-//       <div>
-//         <h1 className="text-white  text-2xl sm:hidden md:block">
-//           Rohit Dusane
-//         </h1>
-//         <h1 className="text-white font-special font-extrabold text-4xl md:hidden sm:block">
-//           RD
-//         </h1>
-//       </div>
-//     );
-//   };
-  
-//   export default NavbarLogo;
-
 import { Link } from "react-scroll";
 
 const NavbarLogo = () => {
